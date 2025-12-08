@@ -74,6 +74,14 @@ router.push('/vendor/onboarding');
 // After onboarding complete
 router.push('/vendor/store-dashboard');
 ```
+### BUG-005: ORDER CHECKOUT
+**Severity:** High  
+**Component:** Order checkout  
+
+**Issue:** User cannot checkout order, as user got 500 error order failed.
+![Order Checkout Error](./orderfailed.png)
+
+---
 
 ---
 
