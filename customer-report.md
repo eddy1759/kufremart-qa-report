@@ -98,11 +98,3 @@ Order test: ⚠️ Accessible
 | Wishlist | ✓ | ✓ |
 | Rentals | ✓ | ✗ |
 
----
-
-## ⏭️ Next Steps
-
-1. ✅ Vendor tests complete (39/39)
-2. ✅ Customer tests complete (38/39)
-3. → Run **Auth tests** (`npm run test:auth`)
-4. → Fix **IDOR vulnerability** on orders
