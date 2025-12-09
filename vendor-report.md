@@ -126,22 +126,5 @@
 3. **Close Button** - Inventory alert has no dismiss option
 4. **Hamburger Menu** - Not detected in mobile view
 
----
 
-## 📂 Screenshots (20 total)
-
-| Category | Screenshots |
-|----------|-------------|
-| Dashboard | `auth_dashboard_main.png`, `auth_dashboard_stats.png` |
-| Sidebar | `auth_sidebar_nav.png`, `auth_*_page.png` (9 pages) |
-| Features | `auth_add_product_form.png`, `auth_verification_full.png` |
-| Responsive | `auth_dashboard_mobile.png`, `auth_dashboard_tablet.png` |
-
----
-
-## ⏭️ Next Steps
-
-1. ✅ Vendor tests complete
-2. → Run **Customer tests** (`npm run test:customer`)
-3. → Run **Auth tests** (`npm run test:auth`)
 
